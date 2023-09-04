@@ -1,0 +1,23 @@
+.Button {
+  margin-top: 10px;
+  border-radius: 6px;
+  padding: 0 15px;
+  font-size: 14px;
+  color: #fff;
+  line-height: 1;
+  font-weight: bold;
+  height: 50px;
+  border: none;
+  background-color: #92c713;
+  cursor: pointer;
+}
+
+.FBT-List {
+  padding: 20px 40px;
+  background-color: #f1f9f8;
+  border-radius: 25px;
+}
+
+.Cb-Wrapper {
+  padding: 0 10px;
+}
